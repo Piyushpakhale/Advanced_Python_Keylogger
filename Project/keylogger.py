@@ -224,3 +224,4 @@ for file in delete_files:
     os.remove(file_merge + file)
 
 # ready to shift to all sensitive info to .env
+# I have modifiend
