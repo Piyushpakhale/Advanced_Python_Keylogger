@@ -1,0 +1,5 @@
+Public IP address: 103.184.154.169Processor Info: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System Info: Windows 10.0.26100
+Machine: AMD64
+Hostname: DESKTOP-0ND0ACU
+Private IP: 192.168.1.34
