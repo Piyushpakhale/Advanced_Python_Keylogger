@@ -20,4 +20,3 @@ for decrypting_file in encrypted_file:
         f.write(decrypted)
     count += 1
 
-
